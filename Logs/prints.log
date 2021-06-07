@@ -1,0 +1,2 @@
+18:33:17.614 [main] ERROR FunctionalTestSuite.DemoBlaze.LoginTest - This is an Error
+18:33:17.627 [main] TRACE FunctionalTestSuite.DemoBlaze.LoginTest - This is for trace

@@ -1,0 +1,6 @@
+18:31:01.307 [main] ERROR FunctionalTestSuite.DemoBlaze.LoginTest - Unable to register
+18:32:47.321 [main] INFO  FunctionalTestSuite.DemoBlaze.LoginTest - Login Test Started
+18:32:47.325 [main] ERROR FunctionalTestSuite.DemoBlaze.LoginTest - Error displayed
+18:32:47.325 [main] DEBUG FunctionalTestSuite.DemoBlaze.LoginTest - Debugging Started
+18:32:47.325 [main] FATAL FunctionalTestSuite.DemoBlaze.LoginTest - fatal error
+18:32:47.325 [main] TRACE FunctionalTestSuite.DemoBlaze.LoginTest - Tracing
